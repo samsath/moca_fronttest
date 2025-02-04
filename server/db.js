@@ -16,6 +16,7 @@ module.exports = {
       model_code: "E27 ES",
       colour: "Cool daylight",
       img_url: "https://i.ibb.co/2nzwxnQ/bulb.png",
+      packaging: "packet of 4"
     },
   ],
 };
