@@ -18,6 +18,6 @@ module.exports = {
       img_url: "https://i.ibb.co/2nzwxnQ/bulb.png",
       packaging: "packet of 4"
     },
-  ],
+  ]
 };
 
